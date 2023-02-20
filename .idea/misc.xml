@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SonarSettingsProjectComponent">
+    <option name="host" value="http://localhost:9000" />
+    <option name="user" value="" />
+    <option name="password" value="" />
+    <option name="resource" value="" />
+  </component>
+  <component name="SonarViolationsProvider">
+    <option name="mySonarViolations">
+      <map>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/ActionResolver.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ActionResolver.java" />
+                <option name="resourceName" value="ActionResolver.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ActionResolver.java" />
+                <option name="resourceName" value="ActionResolver.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ActionResolver.java" />
+                <option name="resourceName" value="ActionResolver.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/Assets.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="19" />
+                <option name="message" value="Make this &quot;public static buttonSound&quot; field final" />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="ruleName" value="&quot;public static&quot; fields should always be constant" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="18" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="20" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="17" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="20" />
+                <option name="message" value="Make this &quot;public static flameSound&quot; field final" />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="ruleName" value="&quot;public static&quot; fields should always be constant" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="18" />
+                <option name="message" value="Make this &quot;public static coinSound&quot; field final" />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="ruleName" value="&quot;public static&quot; fields should always be constant" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="19" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="33" />
+                <option name="message" value="Define a constant instead of duplicating this literal &quot;images/images.pack&quot; 2 times." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1192" />
+                <option name="ruleName" value="String literals should not be duplicated" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="17" />
+                <option name="message" value="Make this &quot;public static explosionSound&quot; field final" />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1444" />
+                <option name="ruleName" value="&quot;public static&quot; fields should always be constant" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Assets.java" />
+                <option name="resourceName" value="Assets.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/ButtonsLayer.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ButtonsLayer.java" />
+                <option name="resourceName" value="ButtonsLayer.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ButtonsLayer.java" />
+                <option name="resourceName" value="ButtonsLayer.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ButtonsLayer.java" />
+                <option name="resourceName" value="ButtonsLayer.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/Constants.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="3" />
+                <option name="message" value="Add a private constructor to hide the implicit public one." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Constants.java" />
+                <option name="resourceName" value="Constants.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1118" />
+                <option name="ruleName" value="Utility classes should not have a public constructor" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Constants.java" />
+                <option name="resourceName" value="Constants.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Constants.java" />
+                <option name="resourceName" value="Constants.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Constants.java" />
+                <option name="resourceName" value="Constants.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/Droid.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="13" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="3" />
+                <option name="message" value="Remove this unused import 'com.badlogic.gdx.graphics.g2d.SpriteBatch'." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:UselessImportCheck" />
+                <option name="ruleName" value="Useless imports should be removed" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="14" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="5" />
+                <option name="message" value="Remove this unused import 'com.badlogic.gdx.graphics.glutils.ShapeRenderer'." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:UselessImportCheck" />
+                <option name="ruleName" value="Useless imports should be removed" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="15" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Droid.java" />
+                <option name="resourceName" value="Droid.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/EffectsManager.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/EffectsManager.java" />
+                <option name="resourceName" value="EffectsManager.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/EffectsManager.java" />
+                <option name="resourceName" value="EffectsManager.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/EffectsManager.java" />
+                <option name="resourceName" value="EffectsManager.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/GameOver.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameOver.java" />
+                <option name="resourceName" value="GameOver.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameOver.java" />
+                <option name="resourceName" value="GameOver.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameOver.java" />
+                <option name="resourceName" value="GameOver.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/GameState.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="4" />
+                <option name="message" value="Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameState.java" />
+                <option name="resourceName" value="GameState.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1186" />
+                <option name="ruleName" value="Methods should not be empty" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="7" />
+                <option name="message" value="Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameState.java" />
+                <option name="resourceName" value="GameState.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1186" />
+                <option name="ruleName" value="Methods should not be empty" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameState.java" />
+                <option name="resourceName" value="GameState.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameState.java" />
+                <option name="resourceName" value="GameState.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/GameState.java" />
+                <option name="resourceName" value="GameState.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/Leaderboard.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Leaderboard.java" />
+                <option name="resourceName" value="Leaderboard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Leaderboard.java" />
+                <option name="resourceName" value="Leaderboard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Leaderboard.java" />
+                <option name="resourceName" value="Leaderboard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="100" />
+                <option name="message" value="Replace the synchronized class &quot;Stack&quot; by an unsynchronized one such as &quot;Deque&quot;." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1149" />
+                <option name="ruleName" value="Synchronized classes Vector, Hashtable, Stack and StringBuffer should not be used" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="162" />
+                <option name="message" value="Define a constant instead of duplicating this literal &quot;flame&quot; 3 times." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1192" />
+                <option name="ruleName" value="String literals should not be duplicated" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="22" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="234" />
+                <option name="message" value="Define a constant instead of duplicating this literal &quot;explosion&quot; 2 times." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1192" />
+                <option name="ruleName" value="String literals should not be duplicated" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="29" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="27" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="24" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="23" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="369" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1231" />
+                <option name="ruleName" value="The members of an interface declaration or class should appear in a pre-defined order" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="30" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="28" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="25" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="26" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="369" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="21" />
+                <option name="message" value="Make this class field a static final constant or non-public and provide accessors if needed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:ClassVariableVisibilityCheck" />
+                <option name="ruleName" value="Class variable fields should not have public accessibility" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/MyGame.java" />
+                <option name="resourceName" value="MyGame.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/Playing.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="18" />
+                <option name="message" value="Rename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Playing.java" />
+                <option name="resourceName" value="Playing.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00117" />
+                <option name="ruleName" value="Local variable and method parameter names should comply with a naming convention" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Playing.java" />
+                <option name="resourceName" value="Playing.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Playing.java" />
+                <option name="resourceName" value="Playing.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Playing.java" />
+                <option name="resourceName" value="Playing.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/Ready.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Ready.java" />
+                <option name="resourceName" value="Ready.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Ready.java" />
+                <option name="resourceName" value="Ready.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/Ready.java" />
+                <option name="resourceName" value="Ready.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/RepeatedImage.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/RepeatedImage.java" />
+                <option name="resourceName" value="RepeatedImage.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/RepeatedImage.java" />
+                <option name="resourceName" value="RepeatedImage.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/RepeatedImage.java" />
+                <option name="resourceName" value="RepeatedImage.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/ScoreBoard.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="21" />
+                <option name="message" value="Replace the synchronized class &quot;Stack&quot; by an unsynchronized one such as &quot;Deque&quot;." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreBoard.java" />
+                <option name="resourceName" value="ScoreBoard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1149" />
+                <option name="ruleName" value="Synchronized classes Vector, Hashtable, Stack and StringBuffer should not be used" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreBoard.java" />
+                <option name="resourceName" value="ScoreBoard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="27" />
+                <option name="message" value="This block of commented-out lines of code should be removed." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreBoard.java" />
+                <option name="resourceName" value="ScoreBoard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:CommentedOutCodeLine" />
+                <option name="ruleName" value="Avoid commented-out lines of code" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreBoard.java" />
+                <option name="resourceName" value="ScoreBoard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreBoard.java" />
+                <option name="resourceName" value="ScoreBoard.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="flappy-droid:src/com/gametsuku/flappydroid/ScoreManager.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreManager.java" />
+                <option name="resourceName" value="ScoreManager.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="line" value="47" />
+                <option name="message" value="Move this trailing comment on the previous empty line." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreManager.java" />
+                <option name="resourceName" value="ScoreManager.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:TrailingCommentCheck" />
+                <option name="ruleName" value="Comments should not be located at the end of lines of code" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreManager.java" />
+                <option name="resourceName" value="ScoreManager.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396687293000" />
+                <option name="message" value="Replace all tab characters in this file by sequences of white-spaces." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="flappy-droid:src/com/gametsuku/flappydroid/ScoreManager.java" />
+                <option name="resourceName" value="ScoreManager.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S00105" />
+                <option name="ruleName" value="Tabulation characters should not be used" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+        <entry key="java-sonar-runner-simple:src/Helloworld.java">
+          <value>
+            <list>
+              <Violation>
+                <option name="createdAt" value="1396686798000" />
+                <option name="line" value="7" />
+                <option name="message" value="Move this trailing comment on the previous empty line." />
+                <option name="priority" value="MINOR" />
+                <option name="resourceKey" value="java-sonar-runner-simple:src/Helloworld.java" />
+                <option name="resourceName" value="Helloworld.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:TrailingCommentCheck" />
+                <option name="ruleName" value="Comments should not be located at the end of lines of code" />
+                <option name="severity" value="MINOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396686798000" />
+                <option name="line" value="1" />
+                <option name="message" value="Move this file to a named package." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="java-sonar-runner-simple:src/Helloworld.java" />
+                <option name="resourceName" value="Helloworld.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1220" />
+                <option name="ruleName" value="The default unnamed package should not be used" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396686798000" />
+                <option name="line" value="11" />
+                <option name="message" value="Replace this usage of System.out or System.err by a logger." />
+                <option name="priority" value="MAJOR" />
+                <option name="resourceKey" value="java-sonar-runner-simple:src/Helloworld.java" />
+                <option name="resourceName" value="Helloworld.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S106" />
+                <option name="ruleName" value="System.out and System.err should not be used as loggers" />
+                <option name="severity" value="MAJOR" />
+              </Violation>
+              <Violation>
+                <option name="createdAt" value="1396686798000" />
+                <option name="line" value="7" />
+                <option name="message" value="Remove this exit() call or ensure it is really required." />
+                <option name="priority" value="CRITICAL" />
+                <option name="resourceKey" value="java-sonar-runner-simple:src/Helloworld.java" />
+                <option name="resourceName" value="Helloworld.java" />
+                <option name="resourceQualifier" value="FIL" />
+                <option name="ruleKey" value="squid:S1147" />
+                <option name="ruleName" value="System.exit(...) and Runtime.getRuntime().exit(...) should not be called" />
+                <option name="severity" value="CRITICAL" />
+              </Violation>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

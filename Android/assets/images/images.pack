@@ -1,0 +1,98 @@
+
+images.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 823, 304
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 823, 158
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 953, 373
+  size: 12, 12
+  split: 2, 2, 3, 3
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+button_down
+  rotate: false
+  xy: 841, 264
+  size: 12, 12
+  split: 2, 2, 3, 3
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 953, 387
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+limb
+  rotate: false
+  xy: 867, 296
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+medal_bronze
+  rotate: false
+  xy: 841, 278
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+medal_gold
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+medal_silver
+  rotate: false
+  xy: 971, 408
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 823, 174
+  size: 16, 128
+  orig: 16, 128
+  offset: 0, 0
+  index: -1
+ready
+  rotate: false
+  xy: 2, 28
+  size: 64, 11
+  orig: 64, 11
+  offset: 0, 0
+  index: -1
+skyline
+  rotate: false
+  xy: 2, 41
+  size: 819, 391
+  orig: 819, 391
+  offset: 0, 0
+  index: -1
+tap
+  rotate: false
+  xy: 68, 30
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
