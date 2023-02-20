@@ -25,7 +25,7 @@ public class GameRenderer {
         world.draw();
 
         drawEffects();
-        drawDebug();
+//        drawDebug();
     }
 
     private void drawDebug() {
